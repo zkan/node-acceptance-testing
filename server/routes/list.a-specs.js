@@ -3,6 +3,7 @@
 const uuid = require('uuid')
 const axios = require('axios')
 const config = require('../../server/config/config')['test']
+const helper = require('../../test/acceptance-specs-helper')
 
 describe('/api', () => {
   let userId
