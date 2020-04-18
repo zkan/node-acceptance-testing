@@ -15,6 +15,7 @@
   "author": "Amy Dredge",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^0.19.2",
     "chai": "^4.1.2",
     "concurrently": "^3.5.0",
     "mocha": "^3.5.3",
